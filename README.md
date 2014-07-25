@@ -1,0 +1,4 @@
+InitMyGitHubWay
+===============
+
+just my test
